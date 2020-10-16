@@ -57,7 +57,7 @@
   "dependencies": {
     "fixed-data-table-contextmenu": "^1.6.5",
     "ioredis": "^2.4.2",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "lodash": "^3.10.1",
     "redis-commands": "^1.0.1",
     "ssh2": "^0.5.4"
